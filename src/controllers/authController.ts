@@ -3,15 +3,9 @@ import { OAuth2Client } from 'google-auth-library';
 import jwt from 'jsonwebtoken';
 import User from '../models/User';
 
-const client = new OAuth2Client(
-  process.env.GOOGLE_CLIENT_ID,
-  process.env.GOOGLE_CLIENT_SECRET,
-  process.env.GOOGLE_REDIRECT_URI
-)
-
 export const login = (req: Request, res: Response) => {
   const redirectUri = `https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=${process.env.GOOGLE_CLIENT_ID}&redirect_uri=${process.env.GOOGLE_REDIRECT_URI}&scope=openid%20email%20profile`;
-  // res.json({ auth_url: redirectUri });
+  res.json({ success: true, redirectUri });
 };
 
 export const callback = async (req: Request, res: Response) => {
@@ -21,10 +15,27 @@ export const callback = async (req: Request, res: Response) => {
   }
 
   try {
-    const { tokens } = await client.getToken({
+    // console.log('Environment variables:', {
+    //   clientId: process.env.GOOGLE_CLIENT_ID ? 'Set' : 'Not set',
+    //   clientSecret: process.env.GOOGLE_CLIENT_SECRET ? 'Set' : 'Not set',
+    //   redirectUri: process.env.GOOGLE_REDIRECT_URI,
+    // });
+
+    // console.log("Authorization Code:", code);
+
+    const client = new OAuth2Client(
+      process.env.GOOGLE_CLIENT_ID,
+      process.env.GOOGLE_CLIENT_SECRET,
+      process.env.GOOGLE_REDIRECT_URI
+    );
+
+    const tokenResponse = await client.getToken({
       code: code as string,
-      redirect_uri: process.env.GOOGLE_REDIRECT_URI,
     });
+
+    const tokens = tokenResponse.tokens;
+
+    // console.log("Tokens Received:", tokens);
 
     if (!tokens.id_token) {
       return res.status(400).json({ success: false, message: 'Failed to retrieve ID token' });
@@ -78,5 +89,3 @@ export const callback = async (req: Request, res: Response) => {
     res.status(500).json({ success: false, message: 'Authentication failed' });
   }
 };
-
-
