@@ -1,10 +1,10 @@
 import express from 'express'
-// import authRoutes from './routes/auth'
+import authRoutes from './routes/auth'
 // import analyticsRoutes from './routes/analytics'
 // import uptimeRoutes from './routes/uptime'
-// import { errorHandler } from './middleware/errorHandler'
-import connectDB from './config/db'
+import { errorHandler } from './middleware/errorHandler'
 import dotenv from 'dotenv'
+import { setupSwagger } from './config/swaggerConfig'
 
 dotenv.config()
 
@@ -14,11 +14,14 @@ const app = express()
 app.use(express.json())
 
 // Routes
-// app.use('/auth', authRoutes)
+app.use('/auth', authRoutes)
 // app.use('/analytics', analyticsRoutes)
 // app.use('/uptime', uptimeRoutes)
 
+// Swagger setup
+setupSwagger(app)
+
 // Error handling middleware
-// app.use(errorHandler)
+app.use(errorHandler)
 
 export default app
