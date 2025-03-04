@@ -16,14 +16,6 @@ export const callback = async (req: Request, res: Response) => {
   }
 
   try {
-    // console.log('Environment variables:', {
-    //   clientId: process.env.GOOGLE_CLIENT_ID ? 'Set' : 'Not set',
-    //   clientSecret: process.env.GOOGLE_CLIENT_SECRET ? 'Set' : 'Not set',
-    //   redirectUri: process.env.GOOGLE_REDIRECT_URI,
-    // });
-
-    // console.log("Authorization Code:", code);
-
     const client = new OAuth2Client(
       process.env.GOOGLE_CLIENT_ID,
       process.env.GOOGLE_CLIENT_SECRET,
@@ -35,8 +27,6 @@ export const callback = async (req: Request, res: Response) => {
     });
 
     const tokens = tokenResponse.tokens;
-
-    // console.log("Tokens Received:", tokens);
 
     if (!tokens.id_token) {
       return res.status(400).json({ success: false, message: 'Failed to retrieve ID token' });
@@ -67,7 +57,7 @@ export const callback = async (req: Request, res: Response) => {
         console.error('Database save error:', dbError);
         return res.status(500).json({ success: false, message: 'Failed to create user' });
       }
-    }
+    } 
 
     if (!process.env.JWT_SECRET) {
       return res.status(500).json({ success: false, message: 'Server misconfiguration' });
