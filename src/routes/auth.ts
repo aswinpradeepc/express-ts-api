@@ -1,11 +1,45 @@
-// filepath: /home/aswin/express-ts-api/src/routes/auth.ts
-import { Router } from 'express'
-import { login, callback } from '../controllers/authController'
-import asyncHandler from '../utils/asyncHandler'
+import { Router } from 'express';
+import { login, callback } from '../controllers/authController';
+import asyncHandler from '../utils/asyncHandler';
 
-const router = Router()
+const router = Router();
 
-router.get('/google', login)
-router.get('/google/callback', asyncHandler(callback))
+/**
+ * @swagger
+ * /auth/google:
+ *   get:
+ *     summary: Initiates Google OAuth authentication
+ *     description: Redirects the user to Google OAuth for authentication.
+ *     tags:
+ *       - Authentication
+ *     responses:
+ *       302:
+ *         description: Redirect to Google OAuth
+ */
+router.get('/google', login);
 
-export default router
+/**
+ * @swagger
+ * /auth/google/callback:
+ *   get:
+ *     summary: Google OAuth callback
+ *     description: Handles the callback from Google OAuth and generates a JWT token.
+ *     tags:
+ *       - Authentication
+ *     responses:
+ *       200:
+ *         description: Successful authentication
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 token:
+ *                   type: string
+ *                   description: JWT token
+ *       401:
+ *         description: Unauthorized
+ */
+router.get('/google/callback', asyncHandler(callback));
+
+export default router;
