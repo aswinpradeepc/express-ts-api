@@ -65,6 +65,14 @@ export const callback = async (req: Request, res: Response) => {
 
     const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
 
+    // Store the token in the user's tokens array
+    user.tokens.push({
+      token,
+      expiresAt: new Date(Date.now() + 60 * 60 * 1000), // 1 hour from now
+    });
+
+    await user.save();
+
     res.json({
       success: true,
       message: 'Authentication successful',
@@ -78,5 +86,29 @@ export const callback = async (req: Request, res: Response) => {
   } catch (error) {
     console.error('Authentication error:', error);
     res.status(500).json({ success: false, message: 'Authentication failed' });
+  }
+};
+
+export const revokeToken = async (req: Request, res: Response) => {
+  const { token } = req.body;
+
+  if (!token) {
+    return res.status(400).json({ message: 'Token is required' });
+  }
+
+  try {
+    const user = await User.findOne({ 'tokens.token': token });
+
+    if (!user) {
+      return res.status(400).json({ message: 'Invalid token' });
+    }
+
+    user.tokens = user.tokens.filter(t => t.token !== token);
+    await user.save();
+
+    res.json({ message: 'Token revoked successfully' });
+  } catch (error) {
+    console.error('Revoke token error:', error);
+    res.status(500).json({ message: 'Failed to revoke token' });
   }
 };
