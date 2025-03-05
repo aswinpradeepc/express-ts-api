@@ -1,0 +1,4554 @@
+[
+  {
+    "timestamp": "2025-01-20T08:00:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737360000000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:01:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737360107000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:02:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737360174000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:04:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737360261000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:06:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737360363000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:07:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737360444000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:08:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737360527000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:10:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737360615000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:12:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737360724000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:13:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737360835000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:15:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737360940000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:17:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737361048000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:19:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737361157000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:21:16.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737361276000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:22:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737361356000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:23:52.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737361432000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:24:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737361498000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:26:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737361607000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:28:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737361720000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:29:43.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737361783000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:31:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737361860000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:33:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737361980000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:34:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362040000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:35:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737362133000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:36:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362206000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:38:37.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362317000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:39:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737362387000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:40:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362459000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:42:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362564000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:44:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362681000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:45:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737362745000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:46:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362811000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:48:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737362926000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:50:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737363001000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:51:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737363088000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:52:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737363178000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:54:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737363242000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:55:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737363330000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:57:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737363448000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T08:58:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737363536000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:00:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737363608000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:01:16.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737363676000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:02:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737363740000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:03:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737363838000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:05:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737363944000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:07:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737364053000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:08:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737364131000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:10:43.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737364243000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:12:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737364326000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:13:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737364412000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:15:19.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737364519000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:16:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737364591000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:18:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737364684000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:19:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737364799000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:21:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737364877000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:22:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737364965000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:24:11.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737365051000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:25:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365148000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:26:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365218000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:28:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737365321000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:30:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365408000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:31:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365468000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:32:50.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365570000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:34:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365657000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:35:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737365755000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:37:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365827000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:38:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365911000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:39:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737365971000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:41:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737366065000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:42:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737366158000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:44:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737366254000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:45:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737366358000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:47:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737366475000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:49:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737366540000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:50:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737366621000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:51:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737366699000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:53:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737366801000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:54:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737366870000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:56:29.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737366989000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:57:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737367052000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T09:59:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737367140000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:00:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737367247000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:02:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737367346000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:03:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737367412000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:04:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737367493000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:05:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737367553000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:07:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737367661000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:09:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737367757000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:11:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737367873000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:12:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737367967000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:14:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368078000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:16:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368174000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:17:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737368279000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:19:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368382000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:20:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368455000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:22:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368561000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:23:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737368638000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:25:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368733000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:26:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368814000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:28:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368910000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:29:57.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737368997000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:31:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737369102000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:33:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737369220000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:35:22.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737369322000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:37:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737369433000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:38:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737369508000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:40:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737369620000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:41:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737369681000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:42:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737369753000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:43:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737369820000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:44:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737369882000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:45:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737369953000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:47:27.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737370047000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:48:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737370128000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:50:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737370240000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:51:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737370314000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:52:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737370379000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:54:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737370441000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:55:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737370555000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:57:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737370621000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T10:58:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737370724000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:00:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737370821000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:01:57.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737370917000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:03:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371003000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:05:22.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371122000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:06:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737371216000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:08:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737371282000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:09:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371343000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:10:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371454000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:12:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371564000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:14:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371652000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:15:35.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371735000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:16:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371798000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:18:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371881000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:19:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737371994000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:21:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737372114000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:23:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737372195000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:24:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737372271000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:25:50.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737372350000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:26:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737372413000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:27:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737372476000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:29:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737372579000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:30:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737372651000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:32:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737372724000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:33:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737372786000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:35:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737372900000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:36:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737372960000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:37:52.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737373072000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:39:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737373144000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:40:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737373221000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:41:52.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737373312000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:43:16.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737373396000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:44:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737373476000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:45:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737373539000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:46:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737373618000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:48:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737373710000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:50:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737373826000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:52:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737373925000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:53:43.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737374023000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:55:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737374112000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:56:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737374193000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:58:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737374300000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T11:59:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737374374000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:01:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737374475000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:02:19.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737374539000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:03:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737374622000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:05:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737374723000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:07:22.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737374842000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:08:22.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737374902000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:09:22.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737374962000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:10:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737375025000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:11:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737375101000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:12:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737375171000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:14:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737375241000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:15:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737375330000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:17:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737375421000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:18:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737375535000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:19:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737375595000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:21:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737375663000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:22:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737375778000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:24:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737375855000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:25:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737375928000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:26:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737375999000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:28:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737376098000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:29:57.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737376197000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:31:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737376299000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:32:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737376365000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:33:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737376436000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:35:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737376530000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:37:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737376620000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:38:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737376728000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:40:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737376825000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:41:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737376896000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:43:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737376987000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:44:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737377053000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:46:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737377164000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:47:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737377262000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:49:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737377371000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:51:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737377478000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:52:19.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737377539000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:54:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737377652000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:55:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737377744000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:57:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737377833000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T12:58:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737377934000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:00:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737378003000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:01:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737378092000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:02:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737378153000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:04:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737378263000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:05:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737378358000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:07:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737378473000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:09:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737378558000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:10:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737378659000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:12:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737378720000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:13:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737378819000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:14:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737378879000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:16:11.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737378971000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:17:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737379062000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:19:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737379142000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:20:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737379208000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:21:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737379284000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:23:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737379394000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:25:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737379507000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:26:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737379568000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:27:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737379643000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:29:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737379746000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:30:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737379842000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:32:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737379946000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:34:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737380053000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:35:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737380142000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:36:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737380219000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:38:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737380316000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:40:27.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737380427000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:41:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737380499000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:43:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737380590000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:44:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737380670000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:46:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737380775000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:47:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737380850000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:48:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737380916000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:50:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737381010000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:51:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737381090000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:52:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737381160000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:53:50.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737381230000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:55:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737381345000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:56:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737381413000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:58:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737381481000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T13:59:35.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737381575000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:00:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737381641000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:01:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737381714000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:03:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737381789000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:04:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737381864000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:05:49.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737381949000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:07:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737382023000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:08:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737382111000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:09:37.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737382177000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:11:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737382296000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:13:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737382408000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:15:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737382508000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:16:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737382584000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:18:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737382704000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:19:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737382770000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:21:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737382878000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:22:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737382978000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:24:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737383081000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:26:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737383166000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:27:52.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737383272000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:29:35.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737383375000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:30:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737383453000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:32:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737383554000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:33:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737383622000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:34:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737383699000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:36:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737383769000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:37:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737383875000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:39:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737383964000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:41:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737384080000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:43:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737384198000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:44:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737384263000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:45:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737384333000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:46:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737384404000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:48:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737384498000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:49:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737384563000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:50:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737384626000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:51:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737384718000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:53:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737384784000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:54:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737384886000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:55:49.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737384949000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:57:43.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737385063000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T14:59:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737385144000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:00:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737385234000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:01:43.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737385303000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:03:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737385393000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:04:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737385455000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:06:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737385573000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:07:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737385640000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:09:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737385749000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:10:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737385818000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:11:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737385898000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:13:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737385981000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:14:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737386093000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:16:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737386165000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:17:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737386254000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:19:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737386368000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:21:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737386483000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:23:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737386583000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:24:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737386687000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:25:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737386748000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:26:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737386814000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:28:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737386916000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:30:11.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737387011000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:32:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737387129000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:34:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737387249000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:36:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737387362000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:37:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737387430000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:38:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737387524000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:40:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737387614000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:41:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737387705000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:42:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737387776000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:44:11.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737387851000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:45:11.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737387911000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:47:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737388026000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:48:50.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737388130000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:50:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737388208000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:51:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737388314000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:53:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737388390000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:55:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737388507000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:56:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737388585000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:58:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737388682000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T15:59:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737388755000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:01:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737388860000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:02:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737388960000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:04:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737389076000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:06:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737389194000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:08:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737389287000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:09:43.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737389383000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:11:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737389467000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:12:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737389559000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:14:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737389644000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:15:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737389712000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:16:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737389818000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:18:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737389914000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:20:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737390033000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:22:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737390135000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:23:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737390239000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:25:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737390344000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:27:35.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737390455000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:28:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737390526000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:29:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737390586000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:31:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737390693000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:32:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737390758000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:33:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737390826000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:35:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737390934000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:37:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737391023000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:39:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737391141000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:40:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737391201000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:41:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737391316000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:43:29.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737391409000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:45:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737391509000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:46:52.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737391612000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:48:27.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737391707000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:50:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737391814000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:51:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737391874000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:52:35.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737391955000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:54:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737392070000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:56:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737392170000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:57:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737392261000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T16:59:27.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737392367000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:01:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737392460000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:02:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737392541000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:03:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737392618000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:05:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737392709000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:06:16.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737392776000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:08:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737392883000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:09:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737392995000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:10:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737393058000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:12:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737393158000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:14:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737393242000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:15:19.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737393319000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:16:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737393380000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:17:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737393473000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:19:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737393555000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:20:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737393620000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:21:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737393706000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:23:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737393797000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:24:37.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737393877000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:25:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737393958000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:27:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737394043000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:29:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737394149000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:30:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737394226000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:32:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737394341000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:33:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737394434000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:35:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737394532000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:36:57.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737394617000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:38:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737394701000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:39:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737394791000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:41:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737394885000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:42:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737394976000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:44:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737395061000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:45:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737395136000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:46:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737395201000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:48:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737395305000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:50:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737395414000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:52:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737395528000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:53:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737395613000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:54:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737395674000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:56:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737395765000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:57:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737395875000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T17:59:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737395988000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:01:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396066000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:02:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396127000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:03:52.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737396232000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:05:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396331000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:07:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737396430000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:08:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396518000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:10:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396602000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:11:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396681000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:12:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737396764000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:14:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396865000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:15:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737396944000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:17:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737397025000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:18:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737397110000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:19:37.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737397177000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:21:37.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737397297000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:23:19.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737397399000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:24:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737397473000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:25:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737397546000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:27:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737397660000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:29:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737397746000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:30:19.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737397819000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:31:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737397904000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:32:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737397971000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:34:37.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737398077000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:36:27.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737398187000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:38:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737398289000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:39:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737398380000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:41:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737398470000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:42:53.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737398573000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:43:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737398634000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:45:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737398747000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:47:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737398848000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:48:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737398922000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:50:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737399012000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:51:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737399105000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:53:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737399201000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:54:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737399282000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:56:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737399377000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T18:58:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737399495000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:00:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737399615000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:01:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737399685000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:03:16.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737399796000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:04:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737399894000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:06:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737399962000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:07:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737400066000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:09:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737400164000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:10:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737400226000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:12:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737400344000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:13:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737400413000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:15:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737400530000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:17:16.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737400636000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:19:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737400754000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:20:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737400832000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:22:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737400937000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:24:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737401040000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:25:18.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737401118000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:26:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737401208000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:28:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401290000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:29:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401355000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:30:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401440000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:31:41.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737401501000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:33:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401606000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:34:28.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401668000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:35:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737401756000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:37:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401821000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:38:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401882000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:39:27.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737401967000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:41:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402069000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:42:55.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737402175000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:44:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402243000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:45:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737402313000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:46:34.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402394000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:47:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402462000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:49:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402545000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:50:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737402636000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:52:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402725000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:53:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402805000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:54:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402865000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:55:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737402932000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:57:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737403020000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:58:07.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737403087000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T19:59:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737403165000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:01:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737403266000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:02:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737403346000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:04:05.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737403445000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:05:15.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737403515000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:07:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737403620000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:08:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737403731000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:10:50.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737403850000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:12:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737403968000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:14:23.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737404063000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:15:59.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737404159000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:17:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737404244000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:19:21.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737404361000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:21:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737404464000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:22:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737404562000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:24:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737404648000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:25:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737404713000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:26:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737404807000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:28:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737404888000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:29:40.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737404980000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:31:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737405062000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:32:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737405174000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:34:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737405252000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:35:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737405354000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:36:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737405414000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:38:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737405480000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:39:01.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737405541000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:40:02.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737405602000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:41:22.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737405682000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:43:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737405786000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:44:37.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737405877000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:45:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737405939000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:46:43.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737406003000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:48:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737406105000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:50:03.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737406203000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:51:44.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737406304000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:53:08.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737406388000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:54:56.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737406496000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:56:27.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737406587000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:58:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737406693000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T20:59:17.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737406757000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:00:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737406832000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:02:09.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737406929000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:03:19.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737406999000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:04:25.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737407065000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:05:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737407131000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:07:10.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737407230000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:08:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737407292000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:09:16.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737407356000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:10:42.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737407442000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:11:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737407505000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:12:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737407566000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:13:54.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737407634000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:15:36.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737407736000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:17:33.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737407853000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:19:20.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737407960000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:20:57.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737408057000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:22:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737408159000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:23:45.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737408225000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:25:06.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737408306000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:26:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737408374000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:28:12.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737408492000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:29:13.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737408553000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:30:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737408630000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:32:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737408746000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:33:38.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737408818000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:35:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737408932000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:37:31.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737409051000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:38:57.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737409137000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:40:24.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737409224000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:41:47.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737409307000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:43:14.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737409394000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:44:49.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737409489000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:46:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737409592000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:47:48.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737409668000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:48:58.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737409738000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:50:49.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737409849000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:52:30.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737409950000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:54:11.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737410051000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:55:32.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737410132000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:57:26.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 0,
+      "timestamp": 1737410246000
+    }
+  },
+  {
+    "timestamp": "2025-01-20T21:58:46.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": 1,
+      "timestamp": 1737410326000
+    }
+  }
+]

@@ -8,62 +8,24 @@ const DAYS = 60; // Number of days to generate data for
 const START_HOUR = 8; // Start hour for data generation (8 AM)
 const END_HOUR = 22; // End hour for data generation (10 PM)
 const ANALYTICS_DIR = path.join(__dirname, 'analytics'); // Directory to store JSON files
+const BATCH_SIZE = 100; // Batch insert size
 
 // Create the analytics directory if it doesn't exist
 if (!fs.existsSync(ANALYTICS_DIR)) {
   fs.mkdirSync(ANALYTICS_DIR, { recursive: true });
 }
 
-// Safely drop a MongoDB collection
-const safeDropCollection = async (model: mongoose.Model<any>) => {
-  try {
-    await model.collection.drop();
-    console.log(`Dropped collection: ${model.collection.name}`);
-  } catch (err: any) {
-    if (err.code === 26 || err.message.includes('ns not found')) {
-      console.log(`Collection ${model.collection.name} does not exist`);
-    } else if (err.message.includes('a view')) {
-      console.log(`Attempting to remove view: ${model.collection.name}`);
-      // Use raw MongoDB driver to drop a view
-      await mongoose.connection.db?.dropCollection(model.collection.name);
-    } else {
-      console.error(`Error dropping collection ${model.collection.name}:`, err);
-    }
-  }
-};
-
-// Create a time-series collection in MongoDB
-const createTimeSeriesCollection = async () => {
-  try {
-    await mongoose.connection.db?.createCollection('analyticsdata', {
-      timeseries: {
-        timeField: 'timestamp', // Field containing the timestamp
-        metaField: 'metadata', // Field containing metadata (e.g., deviceId)
-        granularity: 'minutes', // Granularity of the time-series data
-      },
-    });
-    console.log('Time-series collection created.');
-  } catch (err) {
-    console.error('Error creating time-series collection:', err);
-  }
-};
-
 // Generate analytics data with random triggers (80–160 seconds)
 const generateAnalyticsData = async () => {
-  // Ensure the collection is dropped before generating new data
-  await safeDropCollection(AnalyticsData);
-
-  // Create a time-series collection
-  await createTimeSeriesCollection();
-
   let startDate = new Date();
   startDate.setDate(startDate.getDate() - DAYS); // Set the start date to DAYS ago
 
   for (let i = 0; i < DAYS; i++) {
     const day = new Date(startDate);
     const formattedDate = format(day, 'yyyy-MM-dd'); // Format the date for the filename
-    startDate = new Date(startDate.getTime() + 86400000); // Increment the date by one day
+    startDate = new Date(startDate.getTime() + 86400000); // Increment the start date by 1 day
     const analyticsData = [];
+    let batch = []; // Batch storage for inserts
     let currentTime = new Date(day);
     currentTime.setHours(START_HOUR, 0, 0, 0); // Set the start time for the day
     const endTime = new Date(day);
@@ -71,18 +33,32 @@ const generateAnalyticsData = async () => {
 
     while (currentTime < endTime) {
       // Simulate a trigger event
-      analyticsData.push({
-        timestamp: currentTime,
+      const record = {
+        timestamp: new Date(currentTime),
         metadata: {
           deviceId: 'device-123', // Static device ID
           data: Math.random() < 0.5 ? 0 : 1, // Random data (0 or 1)
-                    timestamp: currentTime.getTime(), 
+          timestamp: currentTime.getTime(),
         },
-      });
+      };
+
+      analyticsData.push(record); // Store for file writing
+      batch.push(record); // Store for batch insert
+
+      // Perform batch insert when batch size reaches the limit
+      if (batch.length >= BATCH_SIZE) {
+        await AnalyticsData.insertMany(batch);
+        batch = []; // Clear batch after insert
+      }
 
       // Randomly increment the time by 80–160 seconds
-    const randomSeconds = Math.floor(Math.random() * 61) + 60; // Randomly choose between 60 and 120 seconds
-    currentTime.setSeconds(currentTime.getSeconds() + randomSeconds);
+      const randomSeconds = Math.floor(Math.random() * 61) + 60;
+      currentTime.setSeconds(currentTime.getSeconds() + randomSeconds);
+    }
+
+    // Insert remaining records in the batch (if any)
+    if (batch.length > 0) {
+      await AnalyticsData.insertMany(batch);
     }
 
     // Write the generated data to a JSON file
@@ -91,8 +67,6 @@ const generateAnalyticsData = async () => {
       JSON.stringify(analyticsData, null, 2)
     );
 
-    // Insert the generated data into the MongoDB collection
-    await AnalyticsData.insertMany(analyticsData);
     console.log(`Generated data for ${formattedDate}`);
   }
 };

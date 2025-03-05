@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2025-02-25T08:00:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": "connected",
+      "timestamp": 1740470400000
+    }
+  },
+  {
+    "timestamp": "2025-02-25T08:40:04.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": "disconnected",
+      "timestamp": 1740472804000
+    }
+  }
+]

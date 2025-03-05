@@ -8,29 +8,11 @@ const DAYS = 60; // 2 months
 const START_HOUR = 8;
 const END_HOUR = 20; // 12 hours of uptime
 const UPTIME_DIR = path.join(__dirname, 'uptime');
+const BATCH_SIZE = 100; // Batch insert size
 
 if (!fs.existsSync(UPTIME_DIR)) fs.mkdirSync(UPTIME_DIR, { recursive: true });
 
-const safeDropCollection = async (model: mongoose.Model<any>) => {
-  try {
-    await model.collection.drop();
-    console.log(`Dropped collection: ${model.collection.name}`);
-  } catch (err: any) {
-    if (err.code === 26 || err.message.includes('ns not found')) {
-      console.log(`Collection ${model.collection.name} does not exist`);
-    } else if (err.message.includes('a view')) {
-      console.log(`Attempting to remove view: ${model.collection.name}`);
-      await mongoose.connection.db?.dropCollection(model.collection.name);
-    } else {
-      console.error(`Error dropping collection ${model.collection.name}:`, err);
-    }
-  }
-};
-
 const generateUptimeData = async () => {
-  // Ensure collection is dropped before generation
-  await safeDropCollection(UptimeData);
-
   let startDate = new Date();
   startDate.setDate(startDate.getDate() - DAYS);
 
@@ -39,17 +21,20 @@ const generateUptimeData = async () => {
     const formattedDate = format(day, 'yyyy-MM-dd');
     startDate = new Date(startDate.getTime() + 86400000);
     const uptimeData = [];
+    let batch = []; // Batch storage for inserts
+
     let currentTime = new Date(day);
     currentTime.setHours(START_HOUR, 0, 0, 0);
     const endTime = new Date(day);
     endTime.setHours(END_HOUR, 0, 0, 0);
 
     // Ensure the device starts with a "connected" state
-    uptimeData.push({
-      timestamp: currentTime,
+    let lastState: "connected" | "disconnected" = "connected";
+    batch.push({
+      timestamp: new Date(currentTime),
       metadata: {
         deviceId: 'device-123',
-        data: "connected",
+        data: lastState,
         timestamp: currentTime.getTime(),
       },
     });
@@ -65,22 +50,29 @@ const generateUptimeData = async () => {
 
       if (eventTime >= endTime) break; // Stop if the event time exceeds the end time
 
-      const eventState: "connected" | "disconnected" = uptimeData[uptimeData.length - 1].metadata.data === "connected" ? "disconnected" : "connected";
-      uptimeData.push({
+      lastState = lastState === "connected" ? "disconnected" : "connected";
+
+      batch.push({
         timestamp: eventTime,
         metadata: {
           deviceId: 'device-123',
-          data: eventState,
+          data: lastState,
           timestamp: eventTime.getTime(),
         },
       });
 
       lastEventTime = eventTime;
+
+      // Perform batch insert when batch size reaches the limit
+      if (batch.length >= BATCH_SIZE) {
+        await UptimeData.insertMany(batch);
+        batch = []; // Clear batch after insert
+      }
     }
 
     // Ensure the device ends with a "disconnected" state
-    if (uptimeData[uptimeData.length - 1].metadata.data === "connected") {
-      uptimeData.push({
+    if (lastState === "connected") {
+      batch.push({
         timestamp: endTime,
         metadata: {
           deviceId: 'device-123',
@@ -90,11 +82,18 @@ const generateUptimeData = async () => {
       });
     }
 
+    // Insert remaining records in the batch (if any)
+    if (batch.length > 0) {
+      await UptimeData.insertMany(batch);
+    }
+
+    // Write the generated data to a JSON file
     fs.writeFileSync(
       path.join(UPTIME_DIR, `${formattedDate}.json`),
-      JSON.stringify(uptimeData, null, 2)
+      JSON.stringify(batch, null, 2)
     );
-    await UptimeData.insertMany(uptimeData);
+
+    console.log(`Generated uptime data for ${formattedDate}`);
   }
 };
 
