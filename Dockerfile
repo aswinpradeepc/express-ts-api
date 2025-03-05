@@ -10,6 +10,12 @@ COPY package*.json ./
 # Install only production dependencies
 RUN npm ci --omit=dev
 
+# Install TypeScript globally
+RUN npm install -g typescript
+
+# Install dependencies including type definitions
+RUN npm install --save-dev @types/node @types/express @types/jsonwebtoken @types/swagger-jsdoc @types/swagger-ui-express
+
 # Copy the rest of the application files
 COPY . .
 
