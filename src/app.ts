@@ -1,6 +1,6 @@
 import express from 'express'
 import authRoutes from './routes/auth'
-// import analyticsRoutes from './routes/analytics'
+import analyticsRoutes from './routes/analytics'
 // import uptimeRoutes from './routes/uptime'
 import { errorHandler } from './middleware/errorHandler'
 import dotenv from 'dotenv'
@@ -15,7 +15,7 @@ app.use(express.json())
 
 // Routes
 app.use('/auth', authRoutes)
-// app.use('/analytics', analyticsRoutes)
+app.use('/analytics', analyticsRoutes)
 // app.use('/uptime', uptimeRoutes)
 
 // Swagger setup
