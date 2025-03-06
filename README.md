@@ -19,7 +19,7 @@ This is a robust, scalable API built with **Express.js** and **TypeScript**, des
 - **Backend**: Express.js (TypeScript)
 - **Database**: MongoDB (Mongoose ODM)
 - **Authentication**: Google OAuth & JWT
-- **Dev Tools**: Docker, Jest, ESLint, Prettier
+- **Dev Tools**: Docker, ESLint, Prettier
 - **API Docs**: Swagger (OpenAPI 3.0)
 
 ##  Getting Started
@@ -86,5 +86,5 @@ npx ts-node <filename>
 
 🔹 **Author:** Aswin Pradeep C  
 🔹 **Website:** [aswinpc.tech](https://aswinpc.tech)  
-```
+
 
