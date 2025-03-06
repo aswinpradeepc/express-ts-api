@@ -1,0 +1,34 @@
+[
+  {
+    "timestamp": "2025-01-26T08:00:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": "connected",
+      "timestamp": 1737878400000
+    }
+  },
+  {
+    "timestamp": "2025-01-26T08:40:51.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": "disconnected",
+      "timestamp": 1737880851000
+    }
+  },
+  {
+    "timestamp": "2025-01-26T08:41:39.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": "connected",
+      "timestamp": 1737880899000
+    }
+  },
+  {
+    "timestamp": "2025-01-26T20:00:00.000Z",
+    "metadata": {
+      "deviceId": "device-123",
+      "data": "disconnected",
+      "timestamp": 1737921600000
+    }
+  }
+]
